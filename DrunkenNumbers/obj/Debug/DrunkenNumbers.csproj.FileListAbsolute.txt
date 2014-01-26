@@ -1,0 +1,6 @@
+D:\TelerikArchives\ExamPractice\ExamPractice\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+D:\TelerikArchives\ExamPractice\ExamPractice\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+D:\TelerikArchives\ExamPractice\ExamPractice\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+D:\TelerikArchives\ExamPractice\ExamPractice\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\ExamPractice\ExamPractice\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+D:\TelerikArchives\ExamPractice\ExamPractice\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

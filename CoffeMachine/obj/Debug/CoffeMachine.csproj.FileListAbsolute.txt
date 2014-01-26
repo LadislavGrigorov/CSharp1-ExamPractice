@@ -1,0 +1,5 @@
+D:\TelerikArchives\ExamPractice\ExamPractice\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+D:\TelerikArchives\ExamPractice\ExamPractice\CoffeMachine\bin\Debug\CoffeMachine.exe
+D:\TelerikArchives\ExamPractice\ExamPractice\CoffeMachine\bin\Debug\CoffeMachine.pdb
+D:\TelerikArchives\ExamPractice\ExamPractice\CoffeMachine\obj\Debug\CoffeMachine.exe
+D:\TelerikArchives\ExamPractice\ExamPractice\CoffeMachine\obj\Debug\CoffeMachine.pdb

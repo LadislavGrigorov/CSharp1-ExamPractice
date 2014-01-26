@@ -1,0 +1,6 @@
+D:\TelerikArchives\ExamPractice\ExamPractice\Fire\bin\Debug\Fire.exe.config
+D:\TelerikArchives\ExamPractice\ExamPractice\Fire\bin\Debug\Fire.exe
+D:\TelerikArchives\ExamPractice\ExamPractice\Fire\bin\Debug\Fire.pdb
+D:\TelerikArchives\ExamPractice\ExamPractice\Fire\obj\Debug\Fire.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\ExamPractice\ExamPractice\Fire\obj\Debug\Fire.exe
+D:\TelerikArchives\ExamPractice\ExamPractice\Fire\obj\Debug\Fire.pdb

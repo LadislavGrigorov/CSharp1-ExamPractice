@@ -1,0 +1,6 @@
+D:\TelerikArchives\ExamPractice\ExamPractice\Anacci\bin\Debug\Anacci.exe.config
+D:\TelerikArchives\ExamPractice\ExamPractice\Anacci\bin\Debug\Anacci.exe
+D:\TelerikArchives\ExamPractice\ExamPractice\Anacci\bin\Debug\Anacci.pdb
+D:\TelerikArchives\ExamPractice\ExamPractice\Anacci\obj\Debug\Anacci.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\ExamPractice\ExamPractice\Anacci\obj\Debug\Anacci.exe
+D:\TelerikArchives\ExamPractice\ExamPractice\Anacci\obj\Debug\Anacci.pdb

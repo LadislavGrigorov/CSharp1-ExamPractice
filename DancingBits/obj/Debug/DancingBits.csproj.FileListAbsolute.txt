@@ -1,0 +1,6 @@
+D:\TelerikArchives\ExamPractice\ExamPractice\DancingBits\bin\Debug\DancingBits.exe.config
+D:\TelerikArchives\ExamPractice\ExamPractice\DancingBits\bin\Debug\DancingBits.exe
+D:\TelerikArchives\ExamPractice\ExamPractice\DancingBits\bin\Debug\DancingBits.pdb
+D:\TelerikArchives\ExamPractice\ExamPractice\DancingBits\obj\Debug\DancingBits.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\ExamPractice\ExamPractice\DancingBits\obj\Debug\DancingBits.exe
+D:\TelerikArchives\ExamPractice\ExamPractice\DancingBits\obj\Debug\DancingBits.pdb
